@@ -1,5 +1,5 @@
 ---
-title: A minimal R Markdown example New
+title: A minimal R Markdown example
 date: January 16, 2017
 output: 
   prettydoc::html_pretty:
