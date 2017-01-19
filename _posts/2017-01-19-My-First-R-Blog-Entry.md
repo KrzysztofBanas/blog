@@ -1,0 +1,30 @@
+---
+title: "My First R Blog Entry"
+author: "Krzysztof Banas"
+date: "18 January 2017" # DO NOT USE Sys.Date()
+layout: post
+---
+
+
+
+<section class="main-content">
+<div id="this-is-header" class="section level2">
+<h2>This is header</h2>
+<blockquote>
+<p>Hello World !</p>
+</blockquote>
+<p>must be in every first entry :-)</p>
+</div>
+<div id="a-new-output-format" class="section level2">
+<h2>A New Output Format</h2>
+<p><code>html_pretty</code> in the <a href="http://github.com/yixuan/prettydoc/"><strong>prettydoc</strong></a> package is a new output format for creating HTML document from R Markdown files. <code>html_pretty</code> is more lightweight compared to <code>html_document</code>, and is more stylish than <code>html_vignette</code> when creating package vignettes.</p>
+</div>
+<div id="preview-your-post" class="section level2">
+<h2>Preview your post</h2>
+<p>Use the Knit button of RStudio to preview your post in HTML format. You should have a very similar rendering for the main content of your post when it will be on your blog.</p>
+</div>
+<div id="convert-your-post" class="section level2">
+<h2>Convert your post</h2>
+<p>Use <code>prettyjekyll::FormatPost</code> to convert your post.</p>
+</div>
+</section>
